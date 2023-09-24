@@ -1,4 +1,9 @@
 # 2D_advanture
+
+演示视频文件:https://www.bilibili.com/video/BV1w14y1S7sC/?spm_id_from=333.999.0.0  
+游戏文件 链接：https://pan.baidu.com/s/1gKyGhwqhRhWZRH2KtDx3Ug 提取码：w9gz  
+全部项目文件与说明文档：链接：https://pan.baidu.com/s/1o64TsQ9WLt4nBXP8_uCOtA?pwd=bh55   
+
 本游戏使用引擎版本为：Unity3D 2022.2.12f1c1版本，打开项目时版本应高于此版本。  
 （1）答辩文件中包含内容为：  
 1.答辩时使用的PPT  
@@ -23,6 +28,3 @@
 1.可直接游玩的打包好的可执行文件  
 2.压缩的可执行文件  
 
-演示视频文件:https://www.bilibili.com/video/BV1w14y1S7sC/?spm_id_from=333.999.0.0  
-游戏文件 链接：https://pan.baidu.com/s/1gKyGhwqhRhWZRH2KtDx3Ug 提取码：w9gz  
-全部项目文件与说明文档：链接：https://pan.baidu.com/s/1o64TsQ9WLt4nBXP8_uCOtA?pwd=bh55   
